@@ -6,3 +6,4 @@ pymongo~=4.12.0
 python-multipart
 jinja2
 gunicorn
+uvicorn
